@@ -1,8 +1,8 @@
 {
     "model": {
         "type": "image_transformer_v2",
-        "input_channels": 3,
-        "input_size": [256, 256],
+        "input_channels": 1,
+        "input_size": [128, 128],
         "patch_size": [4, 4],
         "depths": [2, 2, 4],
         "widths": [128, 256, 512],
